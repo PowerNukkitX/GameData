@@ -12,7 +12,7 @@
           "auxValue": -1
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:wooden_slabs"
         }
@@ -151,7 +151,7 @@
           "auxValue": -1
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:wooden_slabs"
         }
@@ -1540,7 +1540,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -1591,7 +1591,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -1642,7 +1642,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -1693,7 +1693,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -1744,7 +1744,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -1795,7 +1795,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -1846,7 +1846,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -1897,7 +1897,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -1947,7 +1947,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -1998,7 +1998,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -2049,7 +2049,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -2100,7 +2100,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -2150,7 +2150,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -2201,7 +2201,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -2252,7 +2252,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -2303,7 +2303,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -2354,7 +2354,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -2405,7 +2405,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -2456,7 +2456,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -2507,7 +2507,7 @@
           "auxValue": 0
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -3472,7 +3472,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:decorated_pot_sherds"
           },
@@ -4667,7 +4667,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -4712,7 +4712,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -4762,7 +4762,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -4806,7 +4806,7 @@
           "auxValue": -1
         },
         "C": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:wooden_slabs"
         }
@@ -4845,7 +4845,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -4958,7 +4958,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -6617,12 +6617,12 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:wooden_slabs"
         }
@@ -6648,12 +6648,12 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:planks"
           },
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:wooden_slabs"
           }
@@ -6717,7 +6717,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -9300,7 +9300,7 @@
           "auxValue": -1
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:stone_crafting_materials"
         }
@@ -10285,7 +10285,7 @@
           "auxValue": -1
         },
         "C": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:egg"
         },
@@ -10321,7 +10321,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:egg"
           }
@@ -10384,12 +10384,12 @@
           "auxValue": -1
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:coals"
         },
         "C": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:logs"
         }
@@ -11719,7 +11719,7 @@
           "auxValue": -1
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -12753,12 +12753,12 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:wooden_slabs"
         }
@@ -13936,7 +13936,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:wooden_slabs"
         }
@@ -13962,7 +13962,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:wooden_slabs"
           }
@@ -15078,7 +15078,7 @@
           "auxValue": -1
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:coals"
         },
@@ -20430,7 +20430,7 @@
           "auxValue": -1
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -20665,7 +20665,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:stone_crafting_materials"
         }
@@ -20691,7 +20691,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:stone_crafting_materials"
           }
@@ -22807,7 +22807,7 @@
           "auxValue": -1
         },
         "C": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -25203,7 +25203,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:wooden_slabs"
         },
@@ -27165,7 +27165,7 @@
           "auxValue": -1
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -29136,7 +29136,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:metal_nuggets"
         },
@@ -29173,7 +29173,7 @@
             "auxValue": -1
           },
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:metal_nuggets"
           },
@@ -29524,7 +29524,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -30857,7 +30857,7 @@
           "auxValue": -1
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:wool"
         }
@@ -32333,7 +32333,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -37933,7 +37933,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -38541,7 +38541,7 @@
           "auxValue": -1
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -38685,7 +38685,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:logs"
         },
@@ -39588,12 +39588,12 @@
           "auxValue": -1
         },
         "B": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:soul_fire_base_blocks"
         },
         "C": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:logs"
         }
@@ -39619,7 +39619,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:soul_fire_base_blocks"
           }
@@ -41071,7 +41071,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:coals"
         },
@@ -41082,7 +41082,7 @@
           "auxValue": -1
         },
         "C": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:soul_fire_base_blocks"
         }
@@ -41108,7 +41108,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:soul_fire_base_blocks"
           }
@@ -41902,7 +41902,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -41927,7 +41927,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:planks"
           }
@@ -42068,7 +42068,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:stone_tool_materials"
         },
@@ -42100,7 +42100,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:stone_tool_materials"
           }
@@ -42299,7 +42299,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:stone_tool_materials"
         },
@@ -42331,7 +42331,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:stone_tool_materials"
           }
@@ -42413,7 +42413,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:stone_tool_materials"
         },
@@ -42445,7 +42445,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:stone_tool_materials"
           }
@@ -42565,7 +42565,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:stone_tool_materials"
         },
@@ -42597,7 +42597,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:stone_tool_materials"
           }
@@ -42679,7 +42679,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:stone_tool_materials"
         },
@@ -42711,7 +42711,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:stone_tool_materials"
           }
@@ -42763,7 +42763,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:stone_tool_materials"
         },
@@ -42795,7 +42795,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:stone_tool_materials"
           }
@@ -43668,7 +43668,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:coals"
         },
@@ -43699,7 +43699,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:coals"
           },
@@ -43710,7 +43710,7 @@
             "auxValue": -1
           },
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:is_pickaxe"
           }
@@ -43734,7 +43734,7 @@
           "auxValue": -1
         },
         "C": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         }
@@ -46395,7 +46395,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -46585,7 +46585,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -46735,7 +46735,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -46885,7 +46885,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -47035,7 +47035,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -47080,7 +47080,7 @@
       "type": 0,
       "input": {
         "A": {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:planks"
         },
@@ -64394,7 +64394,7 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:logs_that_burn"
         }
@@ -64413,7 +64413,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:logs_that_burn"
           }
@@ -110336,7 +110336,7 @@
           "auxValue": -1
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:coals"
         },
@@ -115230,12 +115230,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -115260,7 +115260,7 @@
         "context": 0,
         "items": [
           {
-            "type": "ıtem_tag",
+            "type": "item_tag",
             "count": 1,
             "itemTag": "minecraft:mushrooms_for_stew"
           },
@@ -116112,7 +116112,7 @@
           "auxValue": -1
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:egg"
         }
@@ -116846,12 +116846,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -116885,12 +116885,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -116924,12 +116924,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -116963,12 +116963,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117002,12 +117002,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117041,12 +117041,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117080,12 +117080,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117119,12 +117119,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117158,12 +117158,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117197,12 +117197,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117236,12 +117236,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117274,12 +117274,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117313,12 +117313,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117352,12 +117352,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117391,12 +117391,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117430,12 +117430,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -117469,12 +117469,12 @@
       "type": 1,
       "input": [
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
         {
-          "type": "ıtem_tag",
+          "type": "item_tag",
           "count": 1,
           "itemTag": "minecraft:mushrooms_for_stew"
         },
@@ -193157,17 +193157,17 @@
       "type": 7,
       "netId": 1558,
       "base": {
-        "type": "ıtem_tag",
+        "type": "item_tag",
         "count": 1,
         "itemTag": "minecraft:trimmable_armors"
       },
       "addition": {
-        "type": "ıtem_tag",
+        "type": "item_tag",
         "count": 1,
         "itemTag": "minecraft:trim_materials"
       },
       "template": {
-        "type": "ıtem_tag",
+        "type": "item_tag",
         "count": 1,
         "itemTag": "minecraft:trim_templates"
       }
