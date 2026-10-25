@@ -194304,30 +194304,6 @@
     {
       "inputId": "minecraft:potion",
       "inputMeta": 4,
-      "reagentId": "minecraft:ice_ball",
-      "reagentMeta": 0,
-      "outputId": "minecraft:potion",
-      "outputMeta": 47
-    },
-    {
-      "inputId": "minecraft:splash_potion",
-      "inputMeta": 4,
-      "reagentId": "minecraft:ice_ball",
-      "reagentMeta": 0,
-      "outputId": "minecraft:splash_potion",
-      "outputMeta": 47
-    },
-    {
-      "inputId": "minecraft:lingering_potion",
-      "inputMeta": 4,
-      "reagentId": "minecraft:ice_ball",
-      "reagentMeta": 0,
-      "outputId": "minecraft:lingering_potion",
-      "outputMeta": 47
-    },
-    {
-      "inputId": "minecraft:potion",
-      "inputMeta": 4,
       "reagentId": "minecraft:breeze_rod",
       "reagentMeta": 0,
       "outputId": "minecraft:potion",

@@ -391,10 +391,6 @@
     "minecraft:stone_pickaxe",
     "minecraft:wooden_pickaxe"
   ],
-  "minecraft:is_pickaxe_item_destructible": [
-    "minecraft:ice_crystal",
-    "minecraft:icicle"
-  ],
   "minecraft:is_shears": [
     "minecraft:shears"
   ],

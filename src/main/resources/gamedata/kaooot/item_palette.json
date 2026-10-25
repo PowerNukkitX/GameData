@@ -3391,12 +3391,6 @@
       "component_based": false
     },
     {
-      "name": "minecraft:disc_press",
-      "id": -1251,
-      "version": 2,
-      "component_based": false
-    },
-    {
       "name": "minecraft:dispenser",
       "id": 23,
       "version": 2,
@@ -5687,18 +5681,6 @@
       "id": 611,
       "version": 2,
       "component_based": false
-    },
-    {
-      "name": "minecraft:ice_crystal",
-      "id": 854,
-      "version": 1,
-      "component_based": true
-    },
-    {
-      "name": "minecraft:icicle",
-      "id": 855,
-      "version": 1,
-      "component_based": true
     },
     {
       "name": "minecraft:infested_chiseled_stone_bricks",
